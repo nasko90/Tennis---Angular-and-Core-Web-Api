@@ -1,0 +1,13 @@
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.Repository.deps.json
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.Repository.dll
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.Repository.pdb
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.csprojResolveAssemblyReference.cache
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.csproj.CoreCompileInputs.cache
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.AssemblyInfoInputs.cache
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.AssemblyInfo.cs
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.dll
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\obj\Debug\netcoreapp2.0\Tennis.Repository.pdb
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.DataAcces.dll
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.Dto.dll
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.DataAcces.pdb
+C:\Users\adrenovichki\Documents\Angular and Core Web Api\Tennis.WebApi\Tennis.Repository\bin\Debug\netcoreapp2.0\Tennis.Dto.pdb

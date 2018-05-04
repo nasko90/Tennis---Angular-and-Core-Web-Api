@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.WebApi", "Tennis.WebApi\Tennis.WebApi.csproj", "{9CD00D99-55D7-4DA4-95A5-2BA74663E74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Repository", "Tennis.Repository\Tennis.Repository.csproj", "{7EF33071-4769-4C38-BB42-8FDBABCF982E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.DataAcces", "Tennis.DataAcces\Tennis.DataAcces.csproj", "{1FDF34DF-9831-41C0-B086-8BAF881F5D44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tennis.Dto", "Tennis.Dto\Tennis.Dto.csproj", "{63CD3767-5B8B-4880-90CF-7D3584C253D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CD00D99-55D7-4DA4-95A5-2BA74663E74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD00D99-55D7-4DA4-95A5-2BA74663E74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD00D99-55D7-4DA4-95A5-2BA74663E74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD00D99-55D7-4DA4-95A5-2BA74663E74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF33071-4769-4C38-BB42-8FDBABCF982E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF33071-4769-4C38-BB42-8FDBABCF982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF33071-4769-4C38-BB42-8FDBABCF982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF33071-4769-4C38-BB42-8FDBABCF982E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDF34DF-9831-41C0-B086-8BAF881F5D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDF34DF-9831-41C0-B086-8BAF881F5D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDF34DF-9831-41C0-B086-8BAF881F5D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDF34DF-9831-41C0-B086-8BAF881F5D44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CD3767-5B8B-4880-90CF-7D3584C253D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CD3767-5B8B-4880-90CF-7D3584C253D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CD3767-5B8B-4880-90CF-7D3584C253D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CD3767-5B8B-4880-90CF-7D3584C253D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A2629D7-9981-449F-AB48-3EE47AD2174C}
+	EndGlobalSection
+EndGlobal
