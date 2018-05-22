@@ -10,6 +10,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Tennis.Repository;
+using Tennis.Repository.Implementations;
+using Tennis.Repository.Interfaces;
 
 namespace Tennis.WebApi
 {
@@ -27,7 +29,7 @@ namespace Tennis.WebApi
         {
             services.AddMvc();
             services.AddScoped<IGameRepository, GameRepository>();
-         
+            services.AddScoped<IPlayerRepository, PlayerRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Tennis.Dto;
 
-namespace Tennis.Repository
+namespace Tennis.Repository.Interfaces
 {
     public interface IGameRepository
     {

@@ -1,0 +1,9 @@
+bgimg {
+    background-image: url('../../assets/img/home.png');
+    background-color: #cccccc;
+    width: 600px;
+    height: 400px;
+    padding: 20px;
+    box-shadow:  0px 0px 10px 2px grey;
+    border:  10px solid
+}

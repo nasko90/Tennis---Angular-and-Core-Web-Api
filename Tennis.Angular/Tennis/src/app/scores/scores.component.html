@@ -1,0 +1,7 @@
+<p>Enter game result:</p>
+<select [(ngModel)]="selectedPlayer">
+    <option *ngFor="let player of players" 
+    [value]="player.Id">
+  {{player.Name}}
+</option>
+</select>

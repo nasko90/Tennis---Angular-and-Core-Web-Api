@@ -1,12 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
+using Microsoft.EntityFrameworkCore;
 using Tennis.DataAcces;
 using Tennis.Dto;
+using Tennis.Repository.Interfaces;
 
-namespace Tennis.Repository
+namespace Tennis.Repository.Implementations
 {
     public class GameRepository : IGameRepository
     {
@@ -43,6 +43,7 @@ namespace Tennis.Repository
             }
             catch (Exception e)
             {
+                Console.WriteLine(e);
                 return null;
             }
         }
